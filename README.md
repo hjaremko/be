@@ -1,2 +1,3 @@
-# be
-Blog engine
+# Lightweight Blog Engine
+
+Work in progress!
